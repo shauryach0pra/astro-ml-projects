@@ -35,8 +35,6 @@ A collection of machine learning notebooks on astronomy data.
 ```
 astro-ml-projects/
 ├── README.md
-├── requirements.txt                       # shared dependencies
-├── .gitignore
 ├── exoplanet-classification/
 │   ├── README.md
 │   └── exoplanet_classification.ipynb     # Random Forest vs XGBoost on Kepler KOI data
